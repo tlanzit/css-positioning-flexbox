@@ -1,0 +1,44 @@
+#bento{
+  border: 5px solid purple;
+  width: 50em;
+  margin: 0 auto;
+  line-height: 10em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  }
+  .box1 {
+  background: darkorchid;
+  margin: 0;
+  height: 10em;
+  width: 25em;
+
+  }
+  .box2{
+   background: orchid;
+   margin: 0;
+   height: 10em;
+   width: 25em;
+
+  }
+.box3{
+ background: mediumorchid;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+
+}
+.box4{
+ background: indigo;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+
+}
+h1{
+  font-size: 3em;
+  color: white;
+  margin: 0;
+}
