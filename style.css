@@ -13,34 +13,39 @@
   margin: 0;
   height: 10em;
   width: 25em;
-
+  display: flex;		
+  justify-content: center;		
+  align-items: center;
   }
   .box2{
    background: orchid;
    margin: 0;
    height: 10em;
    width: 25em;
-
+   display: flex;		
+   justify-content: center;		
+   align-items: center;
   }
 .box3{
  background: mediumorchid;
  margin: 0;
  height: 10em;
  width: 25em;
-
+ display: flex;		
+ justify-content: center;		
+ align-items: center;
 }
 .box4{
  background: indigo;
  margin: 0;
  height: 10em;
  width: 25em;
-
+ display: flex;		
+ justify-content: center;		
+ align-items: center;
 }
 h1{
   font-size: 3em;
   color: white;
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
